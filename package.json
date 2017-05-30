@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/fhirt/request-header-parser#readme",
   "dependencies": {
-    "express": "^4.15.3",
+    "express": "^4.15.3"
   }
 }
